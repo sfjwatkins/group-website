@@ -1,6 +1,8 @@
 # Building websites in Github Pages
 
 ## Description 
-This is my portfolio website- welcome!
+{{ site.description }}
 
 You can read about me [here.](about.md) 
+
+Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
